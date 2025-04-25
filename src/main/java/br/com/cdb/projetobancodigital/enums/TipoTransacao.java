@@ -1,0 +1,17 @@
+package br.com.cdb.projetobancodigital.enums;
+
+public enum TipoTransacao {
+    DEPOSITO,
+    SAQUE,
+    TRANSFERENCIA_ENTRADA,
+    TRANSFERENCIA_SAIDA,
+    PIX_ENVIO,
+    PIX_RECEBIMENTO,
+    TAXA_MANUTENCAO,
+    RENDIMENTO,
+    TRANSFERENCIA_ENTRE_CONTAS,
+    PAGAMENTO_DEBITO,
+    PAGAMENTO_CREDITO,
+    COMPRA,
+    PAGAMENTO_FATURA
+}
