@@ -32,9 +32,9 @@ Este projeto é uma API completa de um Banco Digital desenvolvida em Java com Sp
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/thiago-stefano/banco-digital.git
 
 # Acesse a pasta
-cd nome-do-repo
+cd banco-digital
 
 # Rode com sua IDE favorita (IntelliJ, VSCode) ou via terminal
